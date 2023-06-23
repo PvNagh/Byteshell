@@ -84,7 +84,7 @@ int BEAU_help(char **args)
     {
         printf("%s\n", builtin_str[i]);
     }
-    printf("For detailed usage of these commands, visit documentation: https://github.com/PvNagh\n");
+    printf("For detailed usage of these commands, visit documentation: https://github.com/PvNagh/Byteshell\n");
     return 1;
 }
 
